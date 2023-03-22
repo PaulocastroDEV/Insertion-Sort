@@ -19,7 +19,7 @@ Este é um projeto tem como objetivo aplicar o método da inserção, em um arra
  
 ## Uso
 
- 1. Inicie o projeto e digite o numero que quer buscar no parametro valorBuscado, se ele encontrar irá retornar a posicao, se não irá retornar -1;
+ 1. Inicie o projeto e digite o tamanho do vetor que ele será ordenado;
  
 ## Complexidade
  A complexidade desse algoritmo é O(n^2)
